@@ -1,6 +1,6 @@
 ### PRODIGY Internship - Machine Learning
 Task 2
-### Mall Customer Segmentation using K Means Clustering
+### Mall Customer Segmentation using K-Means Clustering
 
 In this project, we used K-means clustering algorithm to segment Customers of a Retail store based on their purchase history and aims to help the mall owner understand their customer base, identify potential target customers and develop marketing strategies accordingly. 
 
